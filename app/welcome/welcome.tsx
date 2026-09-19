@@ -10,7 +10,8 @@ export function Welcome() {
       >
         ようこそ
       </Typography>
-      <p>このサイトは</p>
+      <p>このアプリで皆さんの対戦成績を記録しよう！</p>
+      
     </Box>
   );
 }
